@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1092897061892",
+    "firebase_url": "https://eurovision-voting.firebaseio.com",
+    "project_id": "eurovision-voting",
+    "storage_bucket": "eurovision-voting.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1092897061892:android:58dcc4fc4b3a3d6a",
+        "android_client_info": {
+          "package_name": "com.shayvidas.eurovisionvoting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1092897061892-884j8a4ibobn0gtkogvb1gb6pgifdd9k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shayvidas.eurovisionvoting",
+            "certificate_hash": "3f980c6a30c1ee9ecdf26c77c2749c7ea69d76b3"
+          }
+        },
+        {
+          "client_id": "1092897061892-8gm4sj19s07ic1jqjn51d05po05qfhgv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQHEuZOYnRFDxsIVqZKCTJ7NCxIwagO38"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1092897061892-8gm4sj19s07ic1jqjn51d05po05qfhgv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
