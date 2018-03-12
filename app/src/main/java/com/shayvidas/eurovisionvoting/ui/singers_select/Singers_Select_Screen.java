@@ -31,6 +31,7 @@ public class Singers_Select_Screen extends BaseActivity implements Singers_Selec
             public void onClick(View view) {
                 Snackbar.make(view, "Replace with your own action", Snackbar.LENGTH_LONG)
                         .setAction("Action", null).show();
+
             }
         });
 

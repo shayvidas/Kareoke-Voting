@@ -13,6 +13,7 @@ import retrofit2.converter.gson.GsonConverterFactory;
  * Created by roman on 15/11/2017.
  */
 
+
 public interface RetrofitFactory {
 
     String baseUrl = "http://ec2-34-231-240-113.compute-1.amazonaws.com:8080/TG17/streaming-api/0.0.2/";

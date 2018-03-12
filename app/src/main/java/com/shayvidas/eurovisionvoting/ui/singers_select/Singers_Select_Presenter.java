@@ -33,9 +33,7 @@ public class Singers_Select_Presenter {
         if (checkForGame()) {
             initlizeArrayList();
             downloadSingers();
-
         }
-
 
     }
 
@@ -71,8 +69,8 @@ public class Singers_Select_Presenter {
             public void onDataChange(DataSnapshot dataSnapshot) {
                 // This method is called once with the initial value and again
                 // whenever data at this location is updated.
-                String value = dataSnapshot.getValue(String.class);
-                Log.d(TAG, "Value is: " + value);
+//                String value = dataSnapshot.getValue(String.class);
+//                Log.d(TAG, "Value is: " + value);
             }
 
             @Override
